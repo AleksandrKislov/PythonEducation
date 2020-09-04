@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions_1">
+        <item>@string/question1_1_text</item>
+        <item>@string/question1_2_text</item>
+        <item>@string/question1_3_text</item>
+        <item>@string/question1_4_text</item>
+        <item>@string/question1_5_text</item>
+        <item>@string/question1_6_text</item>
+        <item>@string/question1_7_text</item>
+        <item>@string/question1_8_text</item>
+        <item>@string/question1_9_text</item>
+        <item>@string/question1_10_text</item>
+    </string-array>
+
+    <string-array name="questions_2">
+        <item>@string/question2_1_text</item>
+        <item>@string/question2_2_text</item>
+        <item>@string/question2_3_text</item>
+        <item>@string/question2_4_text</item>
+        <item>@string/question2_5_text</item>
+        <item>@string/question2_6_text</item>
+        <item>@string/question2_7_text</item>
+        <item>@string/question2_8_text</item>
+        <item>@string/question2_9_text</item>
+        <item>@string/question2_10_text</item>
+    </string-array>
+
+    <string-array name="questions_3">
+        <item>@string/question3_1_text</item>
+        <item>@string/question3_2_text</item>
+        <item>@string/question3_3_text</item>
+        <item>@string/question3_4_text</item>
+        <item>@string/question3_5_text</item>
+        <item>@string/question3_6_text</item>
+        <item>@string/question3_7_text</item>
+        <item>@string/question3_8_text</item>
+        <item>@string/question3_9_text</item>
+        <item>@string/question3_10_text</item>
+    </string-array>
+
+    <string-array name="questions_4">
+        <item>@string/question4_1_text</item>
+        <item>@string/question4_2_text</item>
+        <item>@string/question4_3_text</item>
+        <item>@string/question4_4_text</item>
+        <item>@string/question4_5_text</item>
+        <item>@string/question4_6_text</item>
+        <item>@string/question4_7_text</item>
+        <item>@string/question4_8_text</item>
+        <item>@string/question4_9_text</item>
+        <item>@string/question4_10_text</item>
+    </string-array>
+
+    <string-array name="questions_5">
+        <item>@string/question5_1_text</item>
+        <item>@string/question5_2_text</item>
+        <item>@string/question5_3_text</item>
+        <item>@string/question5_4_text</item>
+        <item>@string/question5_5_text</item>
+        <item>@string/question5_6_text</item>
+        <item>@string/question5_7_text</item>
+        <item>@string/question5_8_text</item>
+        <item>@string/question5_9_text</item>
+        <item>@string/question5_10_text</item>
+    </string-array>
+
+    <string-array name="questions_6">
+        <item>@string/question6_1_text</item>
+        <item>@string/question6_2_text</item>
+        <item>@string/question6_3_text</item>
+        <item>@string/question6_4_text</item>
+        <item>@string/question6_5_text</item>
+        <item>@string/question6_6_text</item>
+        <item>@string/question6_7_text</item>
+        <item>@string/question6_8_text</item>
+        <item>@string/question6_9_text</item>
+        <item>@string/question6_10_text</item>
+    </string-array>
+
+    <string-array name="questions_7">
+        <item>@string/question7_1_text</item>
+        <item>@string/question7_2_text</item>
+        <item>@string/question7_3_text</item>
+        <item>@string/question7_4_text</item>
+        <item>@string/question7_5_text</item>
+        <item>@string/question7_6_text</item>
+        <item>@string/question7_7_text</item>
+        <item>@string/question7_8_text</item>
+        <item>@string/question7_9_text</item>
+        <item>@string/question7_10_text</item>
+    </string-array>
+
+    <string-array name="questions_8">
+        <item>@string/question8_1_text</item>
+        <item>@string/question8_2_text</item>
+        <item>@string/question8_3_text</item>
+        <item>@string/question8_4_text</item>
+        <item>@string/question8_5_text</item>
+        <item>@string/question8_6_text</item>
+        <item>@string/question8_7_text</item>
+        <item>@string/question8_8_text</item>
+        <item>@string/question8_9_text</item>
+        <item>@string/question8_10_text</item>
+    </string-array>
+
+    <string-array name="questions_9">
+        <item>@string/question9_1_text</item>
+        <item>@string/question9_2_text</item>
+        <item>@string/question9_3_text</item>
+        <item>@string/question9_4_text</item>
+        <item>@string/question9_5_text</item>
+        <item>@string/question9_6_text</item>
+        <item>@string/question9_7_text</item>
+        <item>@string/question9_8_text</item>
+        <item>@string/question9_9_text</item>
+        <item>@string/question9_10_text</item>
+    </string-array>
+
+    <string-array name="questions_10">
+        <item>@string/question10_1_text</item>
+        <item>@string/question10_2_text</item>
+        <item>@string/question10_3_text</item>
+        <item>@string/question10_4_text</item>
+        <item>@string/question10_5_text</item>
+        <item>@string/question10_6_text</item>
+        <item>@string/question10_7_text</item>
+        <item>@string/question10_8_text</item>
+        <item>@string/question10_9_text</item>
+        <item>@string/question10_10_text</item>
+    </string-array>
+
+    <string-array name="answers_1">
+        <item>@string/answer1_1_1_text</item>
+        <item>@string/answer1_1_2_text</item>
+        <item>@string/answer1_1_3_text</item>
+        <item>@string/answer1_1_4_text</item>
+
+        <item>@string/answer1_2_1_text</item>
+        <item>@string/answer1_2_2_text</item>
+        <item>@string/answer1_2_3_text</item>
+        <item>@string/answer1_2_4_text</item>
+
+        <item>@string/answer1_3_1_text</item>
+        <item>@string/answer1_3_2_text</item>
+        <item>@string/answer1_3_3_text</item>
+        <item>@string/answer1_3_4_text</item>
+
+        <item>@string/answer1_4_1_text</item>
+        <item>@string/answer1_4_2_text</item>
+        <item>@string/answer1_4_3_text</item>
+        <item>@string/answer1_4_4_text</item>
+
+        <item>@string/answer1_5_1_text</item>
+        <item>@string/answer1_5_2_text</item>
+        <item>@string/answer1_5_3_text</item>
+        <item>@string/answer1_5_4_text</item>
+
+        <item>@string/answer1_6_1_text</item>
+        <item>@string/answer1_6_2_text</item>
+        <item>@string/answer1_6_3_text</item>
+        <item>@string/answer1_6_4_text</item>
+
+        <item>@string/answer1_7_1_text</item>
+        <item>@string/answer1_7_2_text</item>
+        <item>@string/answer1_7_3_text</item>
+        <item>@string/answer1_7_4_text</item>
+
+        <item>@string/answer1_8_1_text</item>
+        <item>@string/answer1_8_2_text</item>
+        <item>@string/answer1_8_3_text</item>
+        <item>@string/answer1_8_4_text</item>
+
+        <item>@string/answer1_9_1_text</item>
+        <item>@string/answer1_9_2_text</item>
+        <item>@string/answer1_9_3_text</item>
+        <item>@string/answer1_9_4_text</item>
+
+        <item>@string/answer1_10_1_text</item>
+        <item>@string/answer1_10_2_text</item>
+        <item>@string/answer1_10_3_text</item>
+        <item>@string/answer1_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_2">
+        <item>@string/answer2_1_1_text</item>
+        <item>@string/answer2_1_2_text</item>
+        <item>@string/answer2_1_3_text</item>
+        <item>@string/answer2_1_4_text</item>
+
+        <item>@string/answer2_2_1_text</item>
+        <item>@string/answer2_2_2_text</item>
+        <item>@string/answer2_2_3_text</item>
+        <item>@string/answer2_2_4_text</item>
+
+        <item>@string/answer2_3_1_text</item>
+        <item>@string/answer2_3_2_text</item>
+        <item>@string/answer2_3_3_text</item>
+        <item>@string/answer2_3_4_text</item>
+
+        <item>@string/answer2_4_1_text</item>
+        <item>@string/answer2_4_2_text</item>
+        <item>@string/answer2_4_3_text</item>
+        <item>@string/answer2_4_4_text</item>
+
+        <item>@string/answer2_5_1_text</item>
+        <item>@string/answer2_5_2_text</item>
+        <item>@string/answer2_5_3_text</item>
+        <item>@string/answer2_5_4_text</item>
+
+        <item>@string/answer2_6_1_text</item>
+        <item>@string/answer2_6_2_text</item>
+        <item>@string/answer2_6_3_text</item>
+        <item>@string/answer2_6_4_text</item>
+
+        <item>@string/answer2_7_1_text</item>
+        <item>@string/answer2_7_2_text</item>
+        <item>@string/answer2_7_3_text</item>
+        <item>@string/answer2_7_4_text</item>
+
+        <item>@string/answer2_8_1_text</item>
+        <item>@string/answer2_8_2_text</item>
+        <item>@string/answer2_8_3_text</item>
+        <item>@string/answer2_8_4_text</item>
+
+        <item>@string/answer2_9_1_text</item>
+        <item>@string/answer2_9_2_text</item>
+        <item>@string/answer2_9_3_text</item>
+        <item>@string/answer2_9_4_text</item>
+
+        <item>@string/answer2_10_1_text</item>
+        <item>@string/answer2_10_2_text</item>
+        <item>@string/answer2_10_3_text</item>
+        <item>@string/answer2_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_3">
+        <item>@string/answer3_1_1_text</item>
+        <item>@string/answer3_1_2_text</item>
+        <item>@string/answer3_1_3_text</item>
+        <item>@string/answer3_1_4_text</item>
+
+        <item>@string/answer3_2_1_text</item>
+        <item>@string/answer3_2_2_text</item>
+        <item>@string/answer3_2_3_text</item>
+        <item>@string/answer3_2_4_text</item>
+
+        <item>@string/answer3_3_1_text</item>
+        <item>@string/answer3_3_2_text</item>
+        <item>@string/answer3_3_3_text</item>
+        <item>@string/answer3_3_4_text</item>
+
+        <item>@string/answer3_4_1_text</item>
+        <item>@string/answer3_4_2_text</item>
+        <item>@string/answer3_4_3_text</item>
+        <item>@string/answer3_4_4_text</item>
+
+        <item>@string/answer3_5_1_text</item>
+        <item>@string/answer3_5_2_text</item>
+        <item>@string/answer3_5_3_text</item>
+        <item>@string/answer3_5_4_text</item>
+
+        <item>@string/answer3_6_1_text</item>
+        <item>@string/answer3_6_2_text</item>
+        <item>@string/answer3_6_3_text</item>
+        <item>@string/answer3_6_4_text</item>
+
+        <item>@string/answer3_7_1_text</item>
+        <item>@string/answer3_7_2_text</item>
+        <item>@string/answer3_7_3_text</item>
+        <item>@string/answer3_7_4_text</item>
+
+        <item>@string/answer3_8_1_text</item>
+        <item>@string/answer3_8_2_text</item>
+        <item>@string/answer3_8_3_text</item>
+        <item>@string/answer3_8_4_text</item>
+
+        <item>@string/answer3_9_1_text</item>
+        <item>@string/answer3_9_2_text</item>
+        <item>@string/answer3_9_3_text</item>
+        <item>@string/answer3_9_4_text</item>
+
+        <item>@string/answer3_10_1_text</item>
+        <item>@string/answer3_10_2_text</item>
+        <item>@string/answer3_10_3_text</item>
+        <item>@string/answer3_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_4">
+        <item>@string/answer4_1_1_text</item>
+        <item>@string/answer4_1_2_text</item>
+        <item>@string/answer4_1_3_text</item>
+        <item>@string/answer4_1_4_text</item>
+
+        <item>@string/answer4_2_1_text</item>
+        <item>@string/answer4_2_2_text</item>
+        <item>@string/answer4_2_3_text</item>
+        <item>@string/answer4_2_4_text</item>
+
+        <item>@string/answer4_3_1_text</item>
+        <item>@string/answer4_3_2_text</item>
+        <item>@string/answer4_3_3_text</item>
+        <item>@string/answer4_3_4_text</item>
+
+        <item>@string/answer4_4_1_text</item>
+        <item>@string/answer4_4_2_text</item>
+        <item>@string/answer4_4_3_text</item>
+        <item>@string/answer4_4_4_text</item>
+
+        <item>@string/answer4_5_1_text</item>
+        <item>@string/answer4_5_2_text</item>
+        <item>@string/answer4_5_3_text</item>
+        <item>@string/answer4_5_4_text</item>
+
+        <item>@string/answer4_6_1_text</item>
+        <item>@string/answer4_6_2_text</item>
+        <item>@string/answer4_6_3_text</item>
+        <item>@string/answer4_6_4_text</item>
+
+        <item>@string/answer4_7_1_text</item>
+        <item>@string/answer4_7_2_text</item>
+        <item>@string/answer4_7_3_text</item>
+        <item>@string/answer4_7_4_text</item>
+
+        <item>@string/answer4_8_1_text</item>
+        <item>@string/answer4_8_2_text</item>
+        <item>@string/answer4_8_3_text</item>
+        <item>@string/answer4_8_4_text</item>
+
+        <item>@string/answer4_9_1_text</item>
+        <item>@string/answer4_9_2_text</item>
+        <item>@string/answer4_9_3_text</item>
+        <item>@string/answer4_9_4_text</item>
+
+        <item>@string/answer4_10_1_text</item>
+        <item>@string/answer4_10_2_text</item>
+        <item>@string/answer4_10_3_text</item>
+        <item>@string/answer4_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_5">
+        <item>@string/answer5_1_1_text</item>
+        <item>@string/answer5_1_2_text</item>
+        <item>@string/answer5_1_3_text</item>
+        <item>@string/answer5_1_4_text</item>
+
+        <item>@string/answer5_2_1_text</item>
+        <item>@string/answer5_2_2_text</item>
+        <item>@string/answer5_2_3_text</item>
+        <item>@string/answer5_2_4_text</item>
+
+        <item>@string/answer5_3_1_text</item>
+        <item>@string/answer5_3_2_text</item>
+        <item>@string/answer5_3_3_text</item>
+        <item>@string/answer5_3_4_text</item>
+
+        <item>@string/answer5_4_1_text</item>
+        <item>@string/answer5_4_2_text</item>
+        <item>@string/answer5_4_3_text</item>
+        <item>@string/answer5_4_4_text</item>
+
+        <item>@string/answer5_5_1_text</item>
+        <item>@string/answer5_5_2_text</item>
+        <item>@string/answer5_5_3_text</item>
+        <item>@string/answer5_5_4_text</item>
+
+        <item>@string/answer5_6_1_text</item>
+        <item>@string/answer5_6_2_text</item>
+        <item>@string/answer5_6_3_text</item>
+        <item>@string/answer5_6_4_text</item>
+
+        <item>@string/answer5_7_1_text</item>
+        <item>@string/answer5_7_2_text</item>
+        <item>@string/answer5_7_3_text</item>
+        <item>@string/answer5_7_4_text</item>
+
+        <item>@string/answer5_8_1_text</item>
+        <item>@string/answer5_8_2_text</item>
+        <item>@string/answer5_8_3_text</item>
+        <item>@string/answer5_8_4_text</item>
+
+        <item>@string/answer5_9_1_text</item>
+        <item>@string/answer5_9_2_text</item>
+        <item>@string/answer5_9_3_text</item>
+        <item>@string/answer5_9_4_text</item>
+
+        <item>@string/answer5_10_1_text</item>
+        <item>@string/answer5_10_2_text</item>
+        <item>@string/answer5_10_3_text</item>
+        <item>@string/answer5_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_6">
+        <item>@string/answer6_1_1_text</item>
+        <item>@string/answer6_1_2_text</item>
+        <item>@string/answer6_1_3_text</item>
+        <item>@string/answer6_1_4_text</item>
+
+        <item>@string/answer6_2_1_text</item>
+        <item>@string/answer6_2_2_text</item>
+        <item>@string/answer6_2_3_text</item>
+        <item>@string/answer6_2_4_text</item>
+
+        <item>@string/answer6_3_1_text</item>
+        <item>@string/answer6_3_2_text</item>
+        <item>@string/answer6_3_3_text</item>
+        <item>@string/answer6_3_4_text</item>
+
+        <item>@string/answer6_4_1_text</item>
+        <item>@string/answer6_4_2_text</item>
+        <item>@string/answer6_4_3_text</item>
+        <item>@string/answer6_4_4_text</item>
+
+        <item>@string/answer6_5_1_text</item>
+        <item>@string/answer6_5_2_text</item>
+        <item>@string/answer6_5_3_text</item>
+        <item>@string/answer6_5_4_text</item>
+
+        <item>@string/answer6_6_1_text</item>
+        <item>@string/answer6_6_2_text</item>
+        <item>@string/answer6_6_3_text</item>
+        <item>@string/answer6_6_4_text</item>
+
+        <item>@string/answer6_7_1_text</item>
+        <item>@string/answer6_7_2_text</item>
+        <item>@string/answer6_7_3_text</item>
+        <item>@string/answer6_7_4_text</item>
+
+        <item>@string/answer6_8_1_text</item>
+        <item>@string/answer6_8_2_text</item>
+        <item>@string/answer6_8_3_text</item>
+        <item>@string/answer6_8_4_text</item>
+
+        <item>@string/answer6_9_1_text</item>
+        <item>@string/answer6_9_2_text</item>
+        <item>@string/answer6_9_3_text</item>
+        <item>@string/answer6_9_4_text</item>
+
+        <item>@string/answer6_10_1_text</item>
+        <item>@string/answer6_10_2_text</item>
+        <item>@string/answer6_10_3_text</item>
+        <item>@string/answer6_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_7">
+        <item>@string/answer7_1_1_text</item>
+        <item>@string/answer7_1_2_text</item>
+        <item>@string/answer7_1_3_text</item>
+        <item>@string/answer7_1_4_text</item>
+
+        <item>@string/answer7_2_1_text</item>
+        <item>@string/answer7_2_2_text</item>
+        <item>@string/answer7_2_3_text</item>
+        <item>@string/answer7_2_4_text</item>
+
+        <item>@string/answer7_3_1_text</item>
+        <item>@string/answer7_3_2_text</item>
+        <item>@string/answer7_3_3_text</item>
+        <item>@string/answer7_3_4_text</item>
+
+        <item>@string/answer7_4_1_text</item>
+        <item>@string/answer7_4_2_text</item>
+        <item>@string/answer7_4_3_text</item>
+        <item>@string/answer7_4_4_text</item>
+
+        <item>@string/answer7_5_1_text</item>
+        <item>@string/answer7_5_2_text</item>
+        <item>@string/answer7_5_3_text</item>
+        <item>@string/answer7_5_4_text</item>
+
+        <item>@string/answer7_6_1_text</item>
+        <item>@string/answer7_6_2_text</item>
+        <item>@string/answer7_6_3_text</item>
+        <item>@string/answer7_6_4_text</item>
+
+        <item>@string/answer7_7_1_text</item>
+        <item>@string/answer7_7_2_text</item>
+        <item>@string/answer7_7_3_text</item>
+        <item>@string/answer7_7_4_text</item>
+
+        <item>@string/answer7_8_1_text</item>
+        <item>@string/answer7_8_2_text</item>
+        <item>@string/answer7_8_3_text</item>
+        <item>@string/answer7_8_4_text</item>
+
+        <item>@string/answer7_9_1_text</item>
+        <item>@string/answer7_9_2_text</item>
+        <item>@string/answer7_9_3_text</item>
+        <item>@string/answer7_9_4_text</item>
+
+        <item>@string/answer7_10_1_text</item>
+        <item>@string/answer7_10_2_text</item>
+        <item>@string/answer7_10_3_text</item>
+        <item>@string/answer7_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_8">
+        <item>@string/answer8_1_1_text</item>
+        <item>@string/answer8_1_2_text</item>
+        <item>@string/answer8_1_3_text</item>
+        <item>@string/answer8_1_4_text</item>
+
+        <item>@string/answer8_2_1_text</item>
+        <item>@string/answer8_2_2_text</item>
+        <item>@string/answer8_2_3_text</item>
+        <item>@string/answer8_2_4_text</item>
+
+        <item>@string/answer8_3_1_text</item>
+        <item>@string/answer8_3_2_text</item>
+        <item>@string/answer8_3_3_text</item>
+        <item>@string/answer8_3_4_text</item>
+
+        <item>@string/answer8_4_1_text</item>
+        <item>@string/answer8_4_2_text</item>
+        <item>@string/answer8_4_3_text</item>
+        <item>@string/answer8_4_4_text</item>
+
+        <item>@string/answer8_5_1_text</item>
+        <item>@string/answer8_5_2_text</item>
+        <item>@string/answer8_5_3_text</item>
+        <item>@string/answer8_5_4_text</item>
+
+        <item>@string/answer8_6_1_text</item>
+        <item>@string/answer8_6_2_text</item>
+        <item>@string/answer8_6_3_text</item>
+        <item>@string/answer8_6_4_text</item>
+
+        <item>@string/answer8_7_1_text</item>
+        <item>@string/answer8_7_2_text</item>
+        <item>@string/answer8_7_3_text</item>
+        <item>@string/answer8_7_4_text</item>
+
+        <item>@string/answer8_8_1_text</item>
+        <item>@string/answer8_8_2_text</item>
+        <item>@string/answer8_8_3_text</item>
+        <item>@string/answer8_8_4_text</item>
+
+        <item>@string/answer8_9_1_text</item>
+        <item>@string/answer8_9_2_text</item>
+        <item>@string/answer8_9_3_text</item>
+        <item>@string/answer8_9_4_text</item>
+
+        <item>@string/answer8_10_1_text</item>
+        <item>@string/answer8_10_2_text</item>
+        <item>@string/answer8_10_3_text</item>
+        <item>@string/answer8_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_9">
+        <item>@string/answer9_1_1_text</item>
+        <item>@string/answer9_1_2_text</item>
+        <item>@string/answer9_1_3_text</item>
+        <item>@string/answer9_1_4_text</item>
+
+        <item>@string/answer9_2_1_text</item>
+        <item>@string/answer9_2_2_text</item>
+        <item>@string/answer9_2_3_text</item>
+        <item>@string/answer9_2_4_text</item>
+
+        <item>@string/answer9_3_1_text</item>
+        <item>@string/answer9_3_2_text</item>
+        <item>@string/answer9_3_3_text</item>
+        <item>@string/answer9_3_4_text</item>
+
+        <item>@string/answer9_4_1_text</item>
+        <item>@string/answer9_4_2_text</item>
+        <item>@string/answer9_4_3_text</item>
+        <item>@string/answer9_4_4_text</item>
+
+        <item>@string/answer9_5_1_text</item>
+        <item>@string/answer9_5_2_text</item>
+        <item>@string/answer9_5_3_text</item>
+        <item>@string/answer9_5_4_text</item>
+
+        <item>@string/answer9_6_1_text</item>
+        <item>@string/answer9_6_2_text</item>
+        <item>@string/answer9_6_3_text</item>
+        <item>@string/answer9_6_4_text</item>
+
+        <item>@string/answer9_7_1_text</item>
+        <item>@string/answer9_7_2_text</item>
+        <item>@string/answer9_7_3_text</item>
+        <item>@string/answer9_7_4_text</item>
+
+        <item>@string/answer9_8_1_text</item>
+        <item>@string/answer9_8_2_text</item>
+        <item>@string/answer9_8_3_text</item>
+        <item>@string/answer9_8_4_text</item>
+
+        <item>@string/answer9_9_1_text</item>
+        <item>@string/answer9_9_2_text</item>
+        <item>@string/answer9_9_3_text</item>
+        <item>@string/answer9_9_4_text</item>
+
+        <item>@string/answer9_10_1_text</item>
+        <item>@string/answer9_10_2_text</item>
+        <item>@string/answer9_10_3_text</item>
+        <item>@string/answer9_10_4_text</item>
+    </string-array>
+
+    <string-array name="answers_10">
+        <item>@string/answer10_1_1_text</item>
+        <item>@string/answer10_1_2_text</item>
+        <item>@string/answer10_1_3_text</item>
+        <item>@string/answer10_1_4_text</item>
+
+        <item>@string/answer10_2_1_text</item>
+        <item>@string/answer10_2_2_text</item>
+        <item>@string/answer10_2_3_text</item>
+        <item>@string/answer10_2_4_text</item>
+
+        <item>@string/answer10_3_1_text</item>
+        <item>@string/answer10_3_2_text</item>
+        <item>@string/answer10_3_3_text</item>
+        <item>@string/answer10_3_4_text</item>
+
+        <item>@string/answer10_4_1_text</item>
+        <item>@string/answer10_4_2_text</item>
+        <item>@string/answer10_4_3_text</item>
+        <item>@string/answer10_4_4_text</item>
+
+        <item>@string/answer10_5_1_text</item>
+        <item>@string/answer10_5_2_text</item>
+        <item>@string/answer10_5_3_text</item>
+        <item>@string/answer10_5_4_text</item>
+
+        <item>@string/answer10_6_1_text</item>
+        <item>@string/answer10_6_2_text</item>
+        <item>@string/answer10_6_3_text</item>
+        <item>@string/answer10_6_4_text</item>
+
+        <item>@string/answer10_7_1_text</item>
+        <item>@string/answer10_7_2_text</item>
+        <item>@string/answer10_7_3_text</item>
+        <item>@string/answer10_7_4_text</item>
+
+        <item>@string/answer10_8_1_text</item>
+        <item>@string/answer10_8_2_text</item>
+        <item>@string/answer10_8_3_text</item>
+        <item>@string/answer10_8_4_text</item>
+
+        <item>@string/answer10_9_1_text</item>
+        <item>@string/answer10_9_2_text</item>
+        <item>@string/answer10_9_3_text</item>
+        <item>@string/answer10_9_4_text</item>
+
+        <item>@string/answer10_10_1_text</item>
+        <item>@string/answer10_10_2_text</item>
+        <item>@string/answer10_10_3_text</item>
+        <item>@string/answer10_10_4_text</item>
+    </string-array>
+
+    <integer-array name="rightAnswers_1">
+        <item>3</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>3</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>3</item>item>
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_2">
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_3">
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_4">
+        <item>4</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_5">
+        <item>3</item>item>
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>4</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_6">
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>3</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>4</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_7">
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>3</item>item>
+        <item>3</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_8">
+        <item>4</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>4</item>item>
+        <item>2</item>item>
+        <item>4</item>item>
+        <item>4</item>item>
+        <item>3</item>item>
+        <item>3</item>item>
+        <item>2</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_9">
+        <item>4</item>item>
+        <item>1</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>4</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>4</item>item>
+        <item>4</item>item>
+    </integer-array>
+
+    <integer-array name="rightAnswers_10">
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>2</item>item>
+        <item>3</item>item>
+        <item>1</item>item>
+        <item>2</item>item>
+        <item>1</item>item>
+        <item>4</item>item>
+        <item>3</item>item>
+        <item>3</item>item>
+    </integer-array>
+
+</resources>
